@@ -2,15 +2,23 @@
 
 A new Flutter project.
 
-## Getting Started
+# Introduction Screens using Flutter
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
+![Untitled](https://www.instagram.com/reel/DCCL75DS506/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tutorial on YouTube:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [YouTube](https://youtu.be/vaBSkgLnINI?si=8e2QXo2SIKpmCzAr)
+
+## This link allows you to support me, and I really appreciate your help:
+
+- [SUPPORT](https://www.buymeacoffee.com/AmirBayat)
+
+## My Socials:
+
+- [INSTAGRAM](https://www.instagram.com/codewithflexz)
+- [YOUTUBE](https://www.youtube.com/c/ProgrammingWithFlexZ)
+- [CONTACT ME](https://amirbayat.dev@gmail.com)
+- [FIND MORE](https://zaap.bio/CodeWithFlexz)
